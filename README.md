@@ -1,2 +1,1 @@
-![CI](https://github.com/anastasi89/2.DOM/actions/workflows/web.yml/badge.svg) (https://ci.appveyor.com/api/github/webhook?id=hhkd41j0ulyberdp)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/v74aso1ugl9af52r?svg=true)](https://ci.appveyor.com/project/anastasi89/2-dom)
