@@ -10,8 +10,6 @@
     "build": "webpack --mode production",
     "test": "jest --coverage",
     "lint": "eslint .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
   },
   "author": "coursar",
   "license": "MIT",
